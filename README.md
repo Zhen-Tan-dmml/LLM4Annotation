@@ -1,4 +1,4 @@
-# Large Language Models for Data Annotation: Methods, Applications, and Challenges
+# Large Language Models for Data Annotation: A Survey
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/nlp24annotation/LLM4Annotation?color=yellow)
 
@@ -8,7 +8,7 @@ If you want to add new entries, please make PRs with the same format.
 
 This list serves as a complement to the survey below.
 
-[[A Comprehensive Survey on Large Language Models for Data Annotation: Methods, Applications, and Challenges]](https://)
+[[A Comprehensive Survey on Large Language Models for Data Annotation: A Survey]](https://)
 
 <div align=center><img src="https://github.com/nlp24annotation/LLM4Annotation/blob/main/figure/figure.png" width="500" /></div>
 
