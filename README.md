@@ -2,11 +2,13 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/nlp24annotation/LLM4Annotation?color=yellow)
 
-This is a curated list of papers about , etc.
+- This is a curated list of papers about LLM for Annotation
 
-If you want to add new entries, please make PRs with the same format.
+  maintained by Zhen Tan (ztan36@asu.edu) and Alimohammad Beigi (abeigi@asu.edu).
 
-This list serves as a complement to the survey below.
+- If you want to add new entries, please make PRs with the same format.
+
+- This list serves as a complement to the survey below.
 
 [[Large Language Models for Data Annotation: A Survey]](https://)
 
