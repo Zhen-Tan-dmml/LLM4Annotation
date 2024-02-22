@@ -10,7 +10,7 @@
 
 - This list serves as a complement to the survey below.
 
-[[Large Language Models for Data Annotation: A Survey]](https://)
+[[Large Language Models for Data Annotation: A Survey]]([https://](https://arxiv.org/pdf/2402.13446.pdf))
 
 <div align=center><img src="https://github.com/nlp24annotation/LLM4Annotation/blob/main/figure/figure.png" width="500" /></div>
 
