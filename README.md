@@ -17,11 +17,13 @@
 If you find this repo helpful, we would appreciate it if you could cite our survey.
 
 ```
-@article{,
-  title={Large Language Models for Data Annotation: Methods, Applications, and Challenges},
-  author={},
-  journal={},
-  year={2024}
+@misc{tan2024large,
+      title={Large Language Models for Data Annotation: A Survey}, 
+      author={Zhen Tan and Alimohammad Beigi and Song Wang and Ruocheng Guo and Amrita Bhattacharjee and Bohan Jiang and Mansooreh Karami and Jundong Li and Lu Cheng and Huan Liu},
+      year={2024},
+      eprint={2402.13446},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
