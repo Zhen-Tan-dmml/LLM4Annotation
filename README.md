@@ -1,6 +1,6 @@
 # Large Language Models for Data Annotation: A Survey
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/nlp24annotation/LLM4Annotation?color=yellow)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Zhen-Tan-dmml/LLM4Annotation?color=yellow)
 
 - This is a curated list of papers about LLM for Annotation
 
