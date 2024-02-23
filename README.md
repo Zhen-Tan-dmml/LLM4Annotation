@@ -235,6 +235,10 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Toolkits
 
-- 
+- LangChain: [[HTML]](https://python.langchain.com/docs/contributing/documentation) [[code]](https://github.com/langchain-ai/langchain)
 
-<!-- - Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose) -->
+- Stack AI: [[HTML]](https://www.stack-ai.com/)
+
+- UBIAI: [[HTML]](https://ubiai.tools/)
+
+- Prodigy: [[HTML]](https://prodi.gy/)
