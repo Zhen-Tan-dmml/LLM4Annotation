@@ -78,6 +78,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Data Selection via Active Learning
 
+- [EMNLP 2023] FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.896.pdf)
+
 - [EMNLP 2023] Active Learning Principles for In-Context Learning with Large Language Models. [[pdf]](https://aclanthology.org/2023.findings-emnlp.334.pdf)
 
 - [IUI 2023] ScatterShot: Interactive In-context Example Curation for Text Transformation. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581641.3584059) [[code]](https://github.com/tongshuangwu/scattershot)
