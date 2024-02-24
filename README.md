@@ -78,7 +78,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Data Selection via Active Learning
 
-- [EMNLP 2023] FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.896.pdf)
+- [EMNLP 2023] FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.896.pdf) [[code]](https://github.com/Justherozen/FreeAL)
 
 - [EMNLP 2023] Active Learning Principles for In-Context Learning with Large Language Models. [[pdf]](https://aclanthology.org/2023.findings-emnlp.334.pdf)
 
