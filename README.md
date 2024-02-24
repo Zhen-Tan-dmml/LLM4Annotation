@@ -30,9 +30,11 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## LLM-Based Data Annotation
 
 ### Manually Engineered Prompt
-- [arXiv 2023] RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment. [[pdf]](https://arxiv.org/pdf/2304.06767.pdf)
+- [arXiv 2023] RAFT: Reward Ranked FineTuning for Generative Foundation Model Alignment. [[pdf]](https://arxiv.org/pdf/2304.06767.pdf)
 
 - [arXiv 2023] Small Models are Valuable Plug-ins for Large Language Models. [[pdf]](https://arxiv.org/pdf/2305.08848.pdf) [[code]](https://github.com/JetRunner/SuperICL)
+
+- [arXiv 2022] Language Models in the Loop: Incorporating Prompting into Weak Supervision. [[pdf]](https://arxiv.org/abs/2205.02318)
 
 - [EMNLP 2022] ZeroGen: Efficient Zero-shot Learning via Dataset Generation. [[pdf]](https://arxiv.org/pdf/2202.07922.pdf) [[code]](https://github.com/jiacheng-ye/ZeroGen)
 
@@ -244,3 +246,5 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - UBIAI: [[HTML]](https://ubiai.tools/)
 
 - Prodigy: [[HTML]](https://prodi.gy/)
+  
+- Alfred: [[pdf]](https://aclanthology.org/2023.acl-demo.46.pdf) [[code]](https://github.com/BatsResearch/alfred)
