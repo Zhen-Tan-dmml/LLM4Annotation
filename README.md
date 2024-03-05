@@ -1,40 +1,27 @@
 # Large Language Models for Data Annotation: A Survey
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Zhen-Tan-dmml/LLM4Annotation?color=yellow)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/nlp24annotation/LLM4Annotation?color=yellow)
 
-- This is a curated list of papers about LLM for Annotation
-
-  maintained by Zhen Tan (ztan36@asu.edu) and Alimohammad Beigi (abeigi@asu.edu).
+- This is a curated list of papers about LLM for Annotation.
 
 - If you want to add new entries, please make PRs with the same format.
 
 - This list serves as a complement to the survey below.
 
-[[Large Language Models for Data Annotation: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
+[[Large Language Models for Data Annotation: A Survey]](https://)
 
-<div align=center><img src="https://github.com/Zhen-Tan-dmml/LLM4Annotation/blob/main/figure/figure.png" width="500" /></div>
+<div align=center><img src="https://github.com/nlp24annotation/LLM4Annotation/blob/main/figure/figure.png" width="500" /></div>
 
 If you find this repo helpful, we would appreciate it if you could cite our survey.
-
-```
-@misc{tan2024large,
-      title={Large Language Models for Data Annotation: A Survey}, 
-      author={Zhen Tan and Alimohammad Beigi and Song Wang and Ruocheng Guo and Amrita Bhattacharjee and Bohan Jiang and Mansooreh Karami and Jundong Li and Lu Cheng and Huan Liu},
-      year={2024},
-      eprint={2402.13446},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
 
 ## LLM-Based Data Annotation
 
 ### Manually Engineered Prompt
-- [arXiv 2023] RAFT: Reward Ranked FineTuning for Generative Foundation Model Alignment. [[pdf]](https://arxiv.org/pdf/2304.06767.pdf)
+- [arXiv 2023] AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. [[pdf]](https://arxiv.org/pdf/2303.16854.pdf)
+
+- [arXiv 2023] RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment. [[pdf]](https://arxiv.org/pdf/2304.06767.pdf)
 
 - [arXiv 2023] Small Models are Valuable Plug-ins for Large Language Models. [[pdf]](https://arxiv.org/pdf/2305.08848.pdf) [[code]](https://github.com/JetRunner/SuperICL)
-
-- [arXiv 2022] Language Models in the Loop: Incorporating Prompting into Weak Supervision. [[pdf]](https://arxiv.org/abs/2205.02318)
 
 - [EMNLP 2022] ZeroGen: Efficient Zero-shot Learning via Dataset Generation. [[pdf]](https://arxiv.org/pdf/2202.07922.pdf) [[code]](https://github.com/jiacheng-ye/ZeroGen)
 
@@ -246,5 +233,3 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - UBIAI: [[HTML]](https://ubiai.tools/)
 
 - Prodigy: [[HTML]](https://prodi.gy/)
-  
-- Alfred: [[pdf]](https://aclanthology.org/2023.acl-demo.46.pdf) [[code]](https://github.com/BatsResearch/alfred)
