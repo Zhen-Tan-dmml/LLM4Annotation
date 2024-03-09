@@ -30,6 +30,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## LLM-Based Data Annotation
 
 ### Manually Engineered Prompt
+- [EACL 2024] GPTs Are Multilingual Annotators for Sequence Generation Tasks. [[pdf]](https://arxiv.org/pdf/2402.05512.pdf) [[code]](https://github.com/c-juhwan/gpt-multilingual-annotator)
+
 - [arXiv 2023] AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. [[pdf]](https://arxiv.org/pdf/2303.16854.pdf)
 
 - [arXiv 2023] RAFT: Reward Ranked FineTuning for Generative Foundation Model Alignment. [[pdf]](https://arxiv.org/pdf/2304.06767.pdf)
@@ -66,9 +68,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Evaluating LLM-Generated Annotations
 
-- [arXiv 2023] AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. [[pdf]](https://arxiv.org/pdf/2303.16854.pdf)
+- [EACL 2024] GPTs Are Multilingual Annotators for Sequence Generation Tasks. [[pdf]](https://arxiv.org/pdf/2402.05512.pdf) [[code]](https://github.com/c-juhwan/gpt-multilingual-annotator)
 
-- [arXiv 2023] Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks. [[pdf]](https://arxiv.org/pdf/2307.02179.pdf)
+- [arXiv 2023] AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. [[pdf]](https://arxiv.org/pdf/2303.16854.pdf)
 
 - [arXiv 2023] Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks. [[pdf]](https://arxiv.org/pdf/2307.02179.pdf)
 
@@ -119,6 +121,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [EMNLP 2019] Language Models as Knowledge Bases? [[pdf]](https://arxiv.org/pdf/1909.01066.pdf) [[code]](https://github.com/facebookresearch/LAMA)
 
 ### Knowledge Distillation: Bridging LLM and task-specific models
+
+- [EACL 2024] GPTs Are Multilingual Annotators for Sequence Generation Tasks. [[pdf]](https://arxiv.org/pdf/2402.05512.pdf) [[code]](https://github.com/c-juhwan/gpt-multilingual-annotator)
 
 - [EMNLP 2023] Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents. [[pdf]](https://arxiv.org/pdf/2304.09542.pdf) [[code]](https://github.com/sunnweiwei/RankGPT)
 
