@@ -1,4 +1,4 @@
-# Large Language Models for Data Annotation: A Survey
+# Large Language Models for Data Annotation and Synthesis: A Survey
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Zhen-Tan-dmml/LLM4Annotation?color=yellow)
 
@@ -6,7 +6,7 @@
     maintained by Dawei Li (daweili5@asu.edu)
 - If you want to add new entries, please make PRs with the same format.
 
-- This list serves as a complement to the survey below.
+- This list serves as a complement to our EMNLP 2024 oral survey:
   [[Large Language Models for Data Annotation and Synthesis: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
 
 <div align=center><img src="https://github.com/Zhen-Tan-dmml/LLM4Annotation/blob/main/figure/taxonomy.png" width="700" /></div>
