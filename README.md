@@ -9,10 +9,10 @@
 - This list serves as a complement to the survey below.
   [[Large Language Models for Data Annotation and Synthesis: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
 
-<div align=center><img src="https://github.com/Zhen-Tan-dmml/LLM4Annotation/blob/main/figure/taxonomy.png" width="500" /></div>
+<div align=center><img src="https://github.com/Zhen-Tan-dmml/LLM4Annotation/blob/main/figure/taxonomy.png" width="700" /></div>
 
 
-<div align=center><img src="https://github.com/Zhen-Tan-dmml/LLM4Annotation/blob/main/figure/framework.png" width="500" /></div>
+<div align=center><img src="https://github.com/Zhen-Tan-dmml/LLM4Annotation/blob/main/figure/framework.png" width="700" /></div>
 
 If you find this repo helpful, we would appreciate it if you could cite our survey.
 
