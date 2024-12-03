@@ -100,6 +100,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Label
 
+- **AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving.** Liang, Mingfu, Su, Jong-Chyi, Schulter, Samuel, Garg, Sparsh, Zhao, Shiyu, Wu, Ying, Chandraker, Manmohan. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* (2024) [[link]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)
+
 - **Towards Automating Text Annotation: A Case Study on Semantic Proximity Annotation using GPT-4.** Yadav, Sachin, Choppa, Tejaswi, and Schlechtweg, Dominik. *arXiv preprint arXiv:2407.04130* (2024) [[link]](https://arxiv.org/pdf/2407.04130)
 
 - **Is a Large Language Model a Good Annotator for Event Extraction?.** Chen, Ruirui, Qin, Chengwei, Jiang, Weifeng, and Choi, Dongkyu. *Proceedings of the AAAI Conference on Artificial Intelligence* (2024) [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/29730/31254)
@@ -294,6 +296,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Other Domain-Specific Data
 
+- **AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving.** Liang, Mingfu, Su, Jong-Chyi, Schulter, Samuel, Garg, Sparsh, Zhao, Shiyu, Wu, Ying, Chandraker, Manmohan. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* (2024) [[link]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)
+
 - **SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization.** Kim, Hyunwoo, Hessel, Jack, Jiang, Liwei, West, Peter, Lu, Ximing, Yu, Youngjae, Zhou, Pei, Bras, Ronan, Alikhani, Malihe, Kim, Gunhee, and others. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (2023) [[link]](https://arxiv.org/pdf/2212.10465)
 
 - **Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data.** Xu, Canwen, Guo, Daya, Duan, Nan, and McAuley, Julian. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (2023) [[link]](https://arxiv.org/pdf/2304.01196)
@@ -433,6 +437,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Filtering & Selection
 
+- **AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving.** Liang, Mingfu, Su, Jong-Chyi, Schulter, Samuel, Garg, Sparsh, Zhao, Shiyu, Wu, Ying, Chandraker, Manmohan. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* (2024) [[link]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)
 
 - **Stablellava: Enhanced visual instruction tuning with synthesized image-dialogue data.** Li, Yanda, Zhang, Chi, Yu, Gang, Wang, Zhibin, Fu, Bin, Lin, Guosheng, Shen, Chunhua, Chen, Ling, and Wei, Yunchao. *arXiv preprint arXiv:2308.10253* (2023) [[link]](https://arxiv.org/pdf/2308.10253)
 
@@ -487,6 +492,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 
 ### Supervised Fine-Tuning
+
+- **AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving.** Liang, Mingfu, Su, Jong-Chyi, Schulter, Samuel, Garg, Sparsh, Zhao, Shiyu, Wu, Ying, Chandraker, Manmohan. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* (2024) [[link]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)
 
 - **Large Language Models Can Self-Improve.** Huang, Jiaxin, Gu, Shixiang, Hou, Le, Wu, Yuexin, Wang, Xuezhi, Yu, Hongkun, and Han, Jiawei. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (2023) [[link]](https://arxiv.org/pdf/2210.11610.pdf?src_trk=em6620554130ce70.4875613993116609)
 
