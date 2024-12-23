@@ -26,7 +26,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ```
 
 ## 🔔 News
-- **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!
+- **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!**
 
 ## Updated
 
@@ -111,6 +111,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach** Konstantin Zaitsev. *arXiv preprint arXiv:2412.13283* (2024) [[link]](https://arxiv.org/pdf/2412.13283)
 
 - **Fake News Detection: Comparative Evaluation of BERT-like Models and Large Language Models with Generative AI-Annotated Data** Shaina Raza, Drai Paulen-Patterson, Chen Ding. *arXiv preprint arXiv:2412.14276* (2024) [[link]](https://arxiv.org/pdf/2412.14276)
+
+- **VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval** Junjie Zhou, Zheng Liu, Shitao Xiao, Bo Zhao, Yongping Xiong. *arXiv preprint arXiv:2406.04292* (2024) [[link]](https://arxiv.org/pdf/2406.04292)
 
 ## LLM-Based Data Annotation
 
