@@ -25,6 +25,93 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 }
 ```
 
+## 🔔 News
+- **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!
+
+## Updated
+
+### Dec 2024
+
+- **A text-to-tabular approach to generate synthetic patient data using LLMs** Margaux Tornqvist, Jean-Daniel Zucker, Tristan Fauvel, Nicolas Lambert, Mathilde Berthelot, Antoine Movschin. *arXiv preprint arXiv:2412.05153* (2024) [[link]](https://arxiv.org/pdf/2412.05153)
+
+- **Give me Some Hard Questions: Synthetic Data Generation for Clinical QA** Fan Bai, Keith Harrigian, Joel Stremmel, Hamid Hassanzadeh, Ardavan Saeedi, Mark Dredze. *arXiv preprint arXiv:2412.04573* (2024) [[link]](https://arxiv.org/pdf/2412.04573)
+
+- **Building a Family of Data Augmentation Models for Low-cost LLM Fine-tuning on the Cloud** Yuanhao Yue, Chengyu Wang, Jun Huang, Peng Wang. *arXiv preprint arXiv:2412.04871* (2024) [[link]](https://arxiv.org/pdf/2412.04871)
+
+- **Can Open-source LLMs Enhance Data Synthesis for Toxic Detection?: An Experimental Study** Zheng Hui, Zhaoxiao Guo, Hang Zhao, Juanyong Duan, Lin Ai, Yinheng Li, Julia Hirschberg, Congrui Huang. *arXiv preprint arXiv:2411.15175* (2024) [[link]](https://arxiv.org/pdf/2411.15175)
+
+- **Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation** Long Truong To, Hung Tuan Le, Dat Van-Thanh Nguyen, Manh Trong Nguyen, Tri Thien Nguyen, Tin Van Huynh, Kiet Van Nguyen. *arXiv preprint arXiv:2411.05641* (2024) [[link]](https://arxiv.org/pdf/2411.05641)
+
+- **CorrSynth -- A Correlated Sampling Method for Diverse Dataset Generation from LLMs** Suhas S Kowshik, Abhishek Divekar, Vijit Malik. *arXiv preprint arXiv:2411.08553* (2024) [[link]](https://arxiv.org/pdf/2411.08553)
+
+- **AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials** Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, Tao Yu. *arXiv preprint arXiv:2412.09605* (2024) [[link]](https://arxiv.org/pdf/2412.09605)
+
+- **Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel** Zun Wang, Jialu Li, Yicong Hong, Songze Li, Kunchang Li, Shoubin Yu, Yi Wang, Yu Qiao, Yali Wang, Mohit Bansal, Limin Wang. *arXiv preprint arXiv:2412.08467* (2024) [[link]](https://arxiv.org/pdf/2412.08467)
+
+- **Filling Memory Gaps: Enhancing Continual Semantic Parsing via SQL Syntax Variance-Guided LLMs without Real Data Replay** Ruiheng Liu, Jinyu Zhang, Yanqi Song, Yu Zhang, Bailong Yang. *arXiv preprint arXiv:2412.07246* (2024) [[link]](https://arxiv.org/pdf/2412.07246)
+
+- **Language Models as Continuous Self-Evolving Data Engineers** Peidong Wang, Ming Wang, Zhiming Ma, Xiaocui Yang, Shi Feng, Daling Wang, Yifei Zhang. *arXiv preprint arXiv:2412.15151* (2024) [[link]](https://arxiv.org/pdf/2412.15151)
+
+- **From Human Annotation to LLMs: SILICON Annotation Workflow for Management Research** Xiang Cheng, Raveesh Mayya, João Sedoc. *arXiv preprint arXiv:2412.14461* (2024) [[link]](https://arxiv.org/pdf/2412.14461)
+
+- **Cognition Chain for Explainable Psychological Stress Detection on Social Media** Xin Wang, Boyan Gao, Yi Dai, Lei Cao, Liang Zhao, Yibo Yang, David Clifton. *arXiv preprint arXiv:2412.14009* (2024) [[link]](https://arxiv.org/pdf/2412.14009)
+
+- **OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain** Shuting Wang, Jiejun Tan, Zhicheng Dou, Ji-Rong Wen. *arXiv preprint arXiv:2412.13018* (2024) [[link]](https://arxiv.org/pdf/2412.13018)
+
+- **DS2-ABSA: Dual-Stream Data Synthesis with Label Refinement for Few-Shot Aspect-Based Sentiment Analysis** Hongling Xu, Yice Zhang, Qianlong Wang, Ruifeng Xu. *arXiv preprint arXiv:2412.14849* (2024) [[link]](https://arxiv.org/pdf/2412.14849)
+
+- **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval** Junjie Zhou, Zheng Liu, Ze Liu, Shitao Xiao, Yueze Wang, Bo Zhao, Chen Jason Zhang, Defu Lian, Yongping Xiong. *arXiv preprint arXiv:2412.14475* (2024) [[link]](https://arxiv.org/pdf/2412.14475)
+
+- **Can LLMs Convert Graphs to Text-Attributed Graphs?** Zehong Wang, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye. *arXiv preprint arXiv:2412.10136* (2024) [[link]](https://arxiv.org/pdf/2412.10136)
+
+- **A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions** Jiankang Wang, Jianjun Xu, Xiaorui Wang, Yuxin Wang, Mengting Xing, Shancheng Fang, Zhineng Chen, Hongtao Xie, Yongdong Zhang. *arXiv preprint arXiv:2412.08864* (2024) [[link]](https://arxiv.org/pdf/2412.08864)
+
+- **CoPrUS: Consistency Preserving Utterance Synthesis towards more realistic benchmark dialogues** Sebastian Steindl, Ulrich Schäfer, Bernd Ludwig. *arXiv preprint arXiv:2412.07515* (2024) [[link]](https://arxiv.org/pdf/2412.07515)
+
+- **FM2DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering** Amirhossein Abaskohi, Spandana Gella, Giuseppe Carenini, Issam H. Laradji. *arXiv preprint arXiv:2412.07030* (2024) [[link]](https://arxiv.org/pdf/2412.07030)
+
+- **AIDE: Task-Specific Fine Tuning with Attribute Guided Multi-Hop Data Expansion** Jiayu Li, Xuan Zhu, Fang Liu, Yanjun Qi. *arXiv preprint arXiv:2412.06136* (2024) [[link]](https://arxiv.org/pdf/2412.06136)
+
+- **Seed-CTS: Unleashing the Power of Tree Search for Superior Performance in Competitive Coding Tasks** Hao Wang, Boyi Liu, Yufeng Zhang, Jie Chen. *arXiv preprint arXiv:2412.12544* (2024) [[link]](https://arxiv.org/pdf/2412.12544)
+
+- **Text2Relight: Creative Portrait Relighting with Text Guidance** Junuk Cha, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, Seunghyun Yoon, HyunJoon Jung, Jae Shin Yoon, Seungryul Baek. *arXiv preprint arXiv:2412.13734* (2024) [[link]](https://arxiv.org/pdf/2412.13734)
+
+- **ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis** Zeao Tu, Xiangdi Meng, Yu He, Zihan Yao, Tianyu Qi, Jun Liu, Ming Li. *arXiv preprint arXiv:2412.14809* (2024) [[link]](https://arxiv.org/pdf/2412.14809)
+
+- **How to Synthesize Text Data without Model Collapse?** Xuekai Zhu, Daixuan Cheng, Hengli Li, Kaiyan Zhang, Ermo Hua, Xingtai Lv, Ning Ding, Zhouhan Lin, Zilong Zheng, Bowen Zhou. *arXiv preprint arXiv:2412.14689* (2024) [[link]](https://arxiv.org/pdf/2412.14689)
+
+- **Libri2Vox Dataset: Target Speaker Extraction with Diverse Speaker Conditions and Synthetic Data** Yun Liu, Xuechen Liu, Xiaoxiao Miao, Junichi Yamagishi. *arXiv preprint arXiv:2412.12512* (2024) [[link]](https://arxiv.org/pdf/2412.12512)
+
+- **ALMA: Alignment with Minimal Annotation** Michihiro Yasunaga, Leonid Shamis, Chunting Zhou, Andrew Cohen, Jason Weston, Luke Zettlemoyer, Marjan Ghazvininejad. *arXiv preprint arXiv:2412.04305* (2024) [[link]](https://arxiv.org/pdf/2412.04305)
+
+- **MAG-V: A Multi-Agent Framework for Synthetic Data Generation and Verification** Saptarshi Sengupta, Kristal Curtis, Akshay Mallipeddi, Abhinav Mathur, Joseph Ross, Liang Gou. *arXiv preprint arXiv:2412.04494* (2024) [[link]](https://arxiv.org/pdf/2412.04494)
+
+- **Piecing It All Together: Verifying Multi-Hop Multimodal Claims** Haoran Wang, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu. *arXiv preprint arXiv:2411.09547* (2024) [[link]](https://arxiv.org/pdf/2411.09547)
+
+- **Automated Collection of Evaluation Dataset for Semantic Search in Low-Resource Domain Language** Anastasia Zhukova, Christian E. Matt, Bela Gipp. *arXiv preprint arXiv:2412.10008* (2024) [[link]](https://arxiv.org/pdf/2412.10008)
+
+- **Argumentative Experience: Reducing Confirmation Bias on Controversial Issues through LLM-Generated Multi-Persona Debates** Li Shi, Houjiang Liu, Yian Wong, Utkarsh Mujumdar, Dan Zhang, Jacek Gwizdka, Matthew Lease. *arXiv preprint arXiv:2412.04629* (2024) [[link]](https://arxiv.org/pdf/2412.04629)
+
+- **A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI** Beiduo Chen, Siyao Peng, Anna Korhonen, Barbara Plank. *arXiv preprint arXiv:2412.13942* (2024) [[link]](https://arxiv.org/pdf/2412.13942)
+
+- **On Limitations of LLM as Annotator for Low Resource Languages** Suramya Jadhav, Abhay Shanbhag, Amogh Thakurdesai, Ridhima Sinare, Raviraj Joshi. *arXiv preprint arXiv:2411.17637* (2024) [[link]](https://arxiv.org/pdf/2411.17637)
+
+- **LLM Teacher-Student Framework for Text Classification With No Manually Annotated Data: A Case Study in IPTC News Topic Classification** Taja Kuzman, Nikola Ljubešić. *arXiv preprint arXiv:2411.19638* (2024) [[link]](https://arxiv.org/pdf/2411.19638)
+
+- **DSAI: Unbiased and Interpretable Latent Feature Extraction for Data-Centric AI** Hyowon Cho, Soonwon Ka, Daechul Park, Jaewook Kang, Minjoon Seo, Bokyung Son. *arXiv preprint arXiv:2412.06303* (2024) [[link]](https://arxiv.org/pdf/2412.06303)
+
+- **Rethinking Emotion Annotations in the Era of Large Language Models** Minxue Niu, Yara El-Tawil, Amrit Romana, Emily Mower Provost. *arXiv preprint arXiv:2412.07906* (2024) [[link]](https://arxiv.org/pdf/2412.07906)
+
+- **DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production** Xiaoyun Liang, Jingyi Ren, Jiayi Qi, Chao Peng, Bo Jiang. *arXiv preprint arXiv:2412.08069* (2024) [[link]](https://arxiv.org/pdf/2412.08069)
+
+- **Automated Collection of Evaluation Dataset for Semantic Search in Low-Resource Domain Language** Anastasia Zhukova, Christian E. Matt, Bela Gipp. *arXiv preprint arXiv:2412.10008* (2024) [[link]](https://arxiv.org/pdf/2412.10008)
+
+- **Bridging the Gap: Enhancing LLM Performance for Low-Resource African Languages with New Benchmarks, Fine-Tuning, and Cultural Adjustments** Tuka Alhanai, Adam Kasumovic, Mohammad Ghassemi, Aven Zitzelberger, Jessica Lundin, Guillaume Chabot-Couture. *arXiv preprint arXiv:2412.12417* (2024) [[link]](https://arxiv.org/pdf/2412.12417)
+
+- **Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach** Konstantin Zaitsev. *arXiv preprint arXiv:2412.13283* (2024) [[link]](https://arxiv.org/pdf/2412.13283)
+
+- **Fake News Detection: Comparative Evaluation of BERT-like Models and Large Language Models with Generative AI-Annotated Data** Shaina Raza, Drai Paulen-Patterson, Chen Ding. *arXiv preprint arXiv:2412.14276* (2024) [[link]](https://arxiv.org/pdf/2412.14276)
+
 ## LLM-Based Data Annotation
 
 ### Instruction & Response
