@@ -26,6 +26,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ```
 
 ## 🔔 News
+- **`2024-12` Check our new paper list and survey on [LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge)!**
 - **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!**
 
 ## Updated
