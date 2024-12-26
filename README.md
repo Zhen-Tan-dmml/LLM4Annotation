@@ -9,6 +9,10 @@
 - This list serves as a complement to our EMNLP 2024 oral survey:
   [[Large Language Models for Data Annotation and Synthesis: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
 
+## 🔔 News
+- **`2024-12` Check our new paper list and survey on [LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge)!**
+- **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!**
+
 <div align=center><img src="https://github.com/Zhen-Tan-dmml/LLM4Annotation/blob/main/figure/taxonomy.png" width="700" /></div>
 
 
@@ -24,10 +28,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
   year={2024}
 }
 ```
-
-## 🔔 News
-- **`2024-12` Check our new paper list and survey on [LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge)!**
-- **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!**
 
 ## Updated
 
