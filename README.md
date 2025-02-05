@@ -10,6 +10,8 @@
   [[Large Language Models for Data Annotation and Synthesis: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
 
 ## 🔔 News
+- **`2024-2` We update our paper list and include papers for LLM-based data annotation & synthesis in January 2025!**
+- **`2025-2` Check our new paper about [preference leakage](https://arxiv.org/abs/2502.01534)!**
 - **`2024-12` Check our new paper list and survey on [LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge)!**
 - **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!**
 
@@ -30,6 +32,46 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ```
 
 ## Updated
+
+### Jan 2025
+
+- **Distilling Desired Comments for Enhanced Code Review with Large Language Models**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.20340)
+- **Evaluating Large Language Models Against Human Annotators in Latent Content Analysis: Sentiment, Political Leaning, Emotional Intensity, and Sarcasm**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.02532)
+- **Biomedical Relation Extraction via Adaptive Document-Relation Cross-Mapping and Concept Unique Identifier**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.05155)
+- **Enabling Scalable Oversight via Self-Evolving Critic**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.05727)
+- **Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.09004)
+- **Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.10893)
+- **Leveraging Graph Structures and Large Language Models for End-to-End Synthetic Task-Oriented Dialogues**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.11977)
+- **The Promises and Pitfalls of LLM Annotations in Dataset Labeling: a Case Study on Media Bias Detection**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2411.11081)
+- **Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.15108)
+- **SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2406.10710)
+- **PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.16075)
+- **FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.17144)
+- **RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18056)
+- **Leveraging Sparsity for Sample-Efficient Preference Learning: A Theoretical Perspective**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18282)
+- **ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2405.17743)
+- **TabuLa: Harnessing Language Models for Tabular Data Synthesis**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2310.12746)
+- **CDS: Data Synthesis Method Guided by Cognitive Diagnosis Theory**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.07674)
+- **Poison-RAG: Adversarial Data Poisoning Attacks on Retrieval-Augmented Generation in Recommender Systems**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.11759)
+- **Advancing Math Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.14002)
+- **URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.04686)
+- **Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.15370)
+- **OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.15427)
+- **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2403.03101)
+- **SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.16125)
+- **Augmenting Human-Annotated Training Data with Large Language Model Generation and Distillation in Open-Response Assessment**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.09126)
+- **Descriptive Caption Enhancement with Visual Specialists for Multimodal Perception**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.14233)
+- **Embedding-Driven Diversity Sampling to Improve Few-Shot Synthetic Data Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.11199)
+- **Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.18558)
+- **EPIC: Effective Prompting for Imbalanced-Class Data Synthesis in Tabular Data Classification via Large Language Models**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2404.12404)
+- **Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.00245)
+- **Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.12789)
+- **Large Language Models for Synthetic Dataset Generation: A Case Study on Ethereum Smart Contract DoS Vulnerabilities**. *ArXiv preprint* (2025) [[Paper]](https://www.researchgate.net/profile/Giuseppe-Destefanis-2/publication/388273070_Large_Language_Models_for_Synthetic_Dataset_Generation_A_Case_Study_on_Ethereum_Smart_Contract_DoS_Vulnerabilities/links/67910e39ec3ae3435a7590b8/Large-Language-Models-for-Synthetic-Dataset-Generation-A-Case-Study-on-Ethereum-Smart-Contract-DoS-Vulnerabilities.pdf)
+- **On evaluation protocols for data augmentation in a limited data scenario**. *ArXiv preprint* (2025) [[Paper]](https://aclanthology.org/2025.coling-main.231/)
+- **WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in Post-Training**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.18511)
+- **Synthetic Data Generation Using Large Language Models for Financial Question Answering**. *ArXiv preprint* (2025) [[Paper]](https://aclanthology.org/2025.finnlp-1.7/)
+- **SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models**. *ArXiv preprint* (2025) [[Paper]](https://aclanthology.org/2025.coling-main.215/)
+
 
 ### Dec 2024
 
