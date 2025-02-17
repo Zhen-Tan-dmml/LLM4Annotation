@@ -10,6 +10,7 @@
   [[Large Language Models for Data Annotation and Synthesis: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
 
 ## 🔔 News
+- **`2024-2` We collect papers and datasets about long-CoT synthesis and distillation, check it!**
 - **`2024-2` We update our paper list and include papers for LLM-based data annotation & synthesis in January 2025!**
 - **`2025-2` Check our new paper about [preference leakage](https://arxiv.org/abs/2502.01534)!**
 - **`2024-12` Check our new paper list and survey on [LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge)!**
@@ -30,6 +31,36 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
   year={2024}
 }
 ```
+
+## Long-CoT Synthesis & Distillation
+
+### Papers
+- **Unveiling the Mechanisms of Explicit CoT Training: How Chain-of-Thought Enhances Reasoning Generalization**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.04667)
+- **ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.06772)
+- **s1: Simple test-time scaling**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.19393)
+- **Cascaded Self-Evaluation Augmented Training for Efficient Multimodal Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.05662)
+- **AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2411.11930)
+- **CoT-Valve: Length-Compressible Chain-of-Thought Tuning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.09601)
+- **DRT: Deep Reasoning Translation via Long Chain-of-Thought**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2412.17498)
+- **RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2501.11284)
+- **Demystifying Long Chain-of-Thought Reasoning in LLMs**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.03373)
+- **LIMO: Less is More for Reasoning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.03387)
+- **ACECODER: Acing Coder RL via Automated Test-Case Synthesis**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01718)
+- **LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.07374)
+- **BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.03860)
+- **Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.04404)
+- **Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.02508)
+
+### Datasets
+- **NovaSky-AI/Sky-T1_data_17k**. [[Link]](https://huggingface.co/datasets/NovaSky-AI/Sky-T1_data_17k)
+- **bespokelabs/Bespoke-Stratos-17k**. [[Link]](https://huggingface.co/datasets/bespokelabs/Bespoke-Stratos-17k)
+- **cognitivecomputations/dolphin-r1**. [[Link]](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1)
+- **ServiceNow-AI/R1-Distill-SFT**. [[Link]](https://huggingface.co/datasets/ServiceNow-AI/R1-Distill-SFT)
+- **Magpie-Align/Magpie-Reasoning-V2-250K-CoT-Deepseek-R1-Llama-70B**. [[Link]](https://huggingface.co/datasets/Magpie-Align/Magpie-Reasoning-V2-250K-CoT-Deepseek-R1-Llama-70B)
+- **EricLu/SCP-116K**. [[Link]](https://huggingface.co/datasets/EricLu/SCP-116K)
+- **PowerInfer/QWQ-LONGCOT-500K**. [[Link]](https://huggingface.co/datasets/PowerInfer/QWQ-LONGCOT-500K)
+- **reflex-ai/deepseek-r1-distill-llama-70b-synthetic**. [[Link]](https://huggingface.co/datasets/reflex-ai/deepseek-r1-distill-llama-70b-synthetic)
+- **long-cot-dataset collection**. [[Link]](https://huggingface.co/collections/xianbao/long-cot-dataset-676804f4a2d3c09c3e3026d2)
 
 ## Updated
 
