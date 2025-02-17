@@ -106,6 +106,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Dec 2024
 
+- **The ALCHEmist: Automated Labeling 500x CHEaper Than LLM Data Annotators** Tzu-Heng Huang, Catherine Cao, Vaishnavi Bhargava, Frederic Sala. *Advances in Neural Information Processing Systems (2024, Spotlight)* [[link]](https://arxiv.org/abs/2407.11004) 
+
 - **A text-to-tabular approach to generate synthetic patient data using LLMs** Margaux Tornqvist, Jean-Daniel Zucker, Tristan Fauvel, Nicolas Lambert, Mathilde Berthelot, Antoine Movschin. *arXiv preprint arXiv:2412.05153* (2024) [[link]](https://arxiv.org/pdf/2412.05153)
 
 - **Give me Some Hard Questions: Synthetic Data Generation for Clinical QA** Fan Bai, Keith Harrigian, Joel Stremmel, Hamid Hassanzadeh, Ardavan Saeedi, Mark Dredze. *arXiv preprint arXiv:2412.04573* (2024) [[link]](https://arxiv.org/pdf/2412.04573)
@@ -262,6 +264,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 
 ### Label
+
+- **The ALCHEmist: Automated Labeling 500x CHEaper Than LLM Data Annotators** Tzu-Heng Huang, Catherine Cao, Vaishnavi Bhargava, Frederic Sala. *Advances in Neural Information Processing Systems (2024, Spotlight)* [[link]](https://arxiv.org/abs/2407.11004) 
 
 - **AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving.** Liang, Mingfu, Su, Jong-Chyi, Schulter, Samuel, Garg, Sparsh, Zhao, Shiyu, Wu, Ying, Chandraker, Manmohan. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)* (2024) [[link]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.html)
 
