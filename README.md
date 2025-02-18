@@ -52,6 +52,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.02508)
 
 ### Datasets
+- **Congliu/Chinese-DeepSeek-R1-Distill-data-110k**. [[Link]](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
 - **NovaSky-AI/Sky-T1_data_17k**. [[Link]](https://huggingface.co/datasets/NovaSky-AI/Sky-T1_data_17k)
 - **bespokelabs/Bespoke-Stratos-17k**. [[Link]](https://huggingface.co/datasets/bespokelabs/Bespoke-Stratos-17k)
 - **cognitivecomputations/dolphin-r1**. [[Link]](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1)
