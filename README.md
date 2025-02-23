@@ -10,8 +10,8 @@
   [[Large Language Models for Data Annotation and Synthesis: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
 
 ## 🔔 News
-- **`2024-2` We collect papers and datasets about long-CoT synthesis and distillation, check it!**
-- **`2024-2` We update our paper list and include papers for LLM-based data annotation & synthesis in January 2025!**
+- **`2025-2` We collect papers and datasets about long-CoT synthesis and distillation, check it!**
+- **`2025-2` We update our paper list and include papers for LLM-based data annotation & synthesis in January 2025!**
 - **`2025-2` Check our new paper about [preference leakage](https://arxiv.org/abs/2502.01534)!**
 - **`2024-12` Check our new paper list and survey on [LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge)!**
 - **`2024-12` We update our paper list and include papers for LLM-based data annotation & synthesis in December 2024!**
