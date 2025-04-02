@@ -129,6 +129,18 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **SDRT: Enhance Vision-Language Models by Self-Distillation with Diverse Reasoning Traces**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.01754)
 - **Scaling Laws of Synthetic Data for Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.19551)
 - **ELTEX: A Framework for Domain-Driven Synthetic Data Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.15055)
+- **Leveraging large language models to examine the interaction between investor sentiment and stock performance**. *ArXiv preprint* (2025) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197625006025)
+- **Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.17928)
+- **TREESYNTH: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.17195)
+- **Machine Learning Approaches in Software Vulnerability Detection: A Systematic Review and Analysis of Contemporary Methods**. *ArXiv preprint* (2025) [[Paper]](https://www.researchsquare.com/article/rs-5975490/latest)
+- **Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.11411)
+- **Augmenting Image Annotation: A Human-LMM Collaborative Framework for Efficient Object Selection and Label Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.11096)
+- **Generative AI in Transportation Planning: A Survey**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.07158)
+- **Large Language Models Are Effective Human Annotation Assistants, But Not Good Independent Annotators**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.06778)
+- **A large language model-enabled machining process knowledge graph construction method for intelligent process planning**. *ArXiv preprint* (2025) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1474034625001375)
+- **Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.05587)
+- **PromptPex: Automatic Test Generation for Language Model Prompts**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.05070)
+
 
 ### Feb 2025
 
