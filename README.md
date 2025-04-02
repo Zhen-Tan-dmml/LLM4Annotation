@@ -10,6 +10,8 @@
   [[Large Language Models for Data Annotation and Synthesis: A Survey]](https://arxiv.org/pdf/2402.13446.pdf)
 
 ## 🔔 News
+- **`2025-4` We update our paper list and include papers for LLM-based data annotation & synthesis in March 2025!**
+- **`2025-3` Want to learn more about risks and safety problems of using LLM-based annotation? Check out our new paper list on [AI supervision risk](https://github.com/David-Li0406/AI-Supervision-Risk)!**
 - **`2025-3` We update our paper list and include papers for LLM-based data annotation & synthesis in February 2025!**
 - **`2025-2` We collect papers and datasets about long-CoT synthesis and distillation, check it!**
 - **`2025-2` We update our paper list and include papers for LLM-based data annotation & synthesis in January 2025!**
@@ -80,6 +82,55 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **long-cot-dataset collection**. [[Link]](https://huggingface.co/collections/xianbao/long-cot-dataset-676804f4a2d3c09c3e3026d2)
 
 ## Updated
+
+### Mar 2025
+
+- **On Limitations of LLM as Annotator for Low Resource Languages**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2411.17637)
+- **TeaMs-RL: Teaching LLMs to Generate Better Instruction Datasets via Reinforcement Learning**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2403.08694)
+- **Automated Annotation of Evolving Corpora for Augmenting Longitudinal Network Data: A Framework Integrating Large Language Models and Expert Knowledge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.01672)
+- **Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.02718)
+- **Can Frontier LLMs Replace Annotators in Biomedical Text Mining? Analyzing Challenges and Exploring Solutions**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.03261)
+- **Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.04874)
+- **HILGEN: Hierarchically-Informed Data Generation for Biomedical NER Using Knowledgebases and Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.04930)
+- **AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.05665)
+- **Evaluation of the Automated Labeling Method for Taxonomic Nomenclature Through Prompt-Optimized Large Language Model**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.10662)
+- **LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.07237)
+- **Word-level Annotation of GDPR Transparency Compliance in Privacy Policies using Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.10727)
+- **LEAVS: An LLM-based Labeler for Abdominal CT Supervision**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.13330)
+- **Enhancing Arabic Automated Essay Scoring with Synthetic Data and Error Injection**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.17739)
+- **Assessing the Reliability and Validity of GPT-4 in Annotating Emotion Appraisal Ratings**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.16883)
+- **Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.21824)
+- **Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.12085)
+- **Tabby: Tabular Data Synthesis with Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.02152)
+- **DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.04959)
+- **Leveraging Large Language Models to Address Data Scarcity in Machine Learning: Applications in Graphene Synthesis**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.04870)
+- **Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.12347)
+- **ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2410.18447)
+- **Synthetic Data Generation Using Large Language Models: Advances in Text and Code**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.14023)
+- **MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.16212)
+- **TreeSynth: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.17195)
+- **Unicorn: Text-Only Data Synthesis for Vision Language Model Training**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.22655)
+- **ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.02390)
+- **From Captions to Rewards (CAREVL): Leveraging Large Language Model Experts for Enhanced Reward Modeling in Large Vision-Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.06260)
+- **Cockatiel: Ensembling Synthetic and Human Preferenced Training for Detailed Video Caption**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.09279)
+- **MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.16096)
+- **From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.20715)
+- **Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.00743)
+- **KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.02951)
+- **Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.07826)
+- **MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.09499)
+- **DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.12797)
+- **Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.08741)
+- **CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.01836)
+- **Targeted Distillation for Sentiment Analysis**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.03225)
+- **Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.16385)
+- **Towards Understanding Distilled Reasoning Models: A Representational Approach**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.03730)
+- **1.4 Million Open-Source Distilled Reasoning Dataset to Empower Large Language Model Training**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.19633)
+- **SDRT: Enhance Vision-Language Models by Self-Distillation with Diverse Reasoning Traces**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.01754)
+- **Scaling Laws of Synthetic Data for Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.19551)
+- **ELTEX: A Framework for Domain-Driven Synthetic Data Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.15055)
+
+### Feb 2025
 
 - **Preference Leakage: A Contamination Problem in LLM-as-a-judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01534)
 - **AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01977)
