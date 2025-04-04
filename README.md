@@ -126,7 +126,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.16385)
 - **Towards Understanding Distilled Reasoning Models: A Representational Approach**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.03730)
 - **1.4 Million Open-Source Distilled Reasoning Dataset to Empower Large Language Model Training**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.19633)
-- **SDRT: Enhance Vision-Language Models by Self-Distillation with Diverse Reasoning Traces**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.01754)
 - **Scaling Laws of Synthetic Data for Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.19551)
 - **ELTEX: A Framework for Domain-Driven Synthetic Data Generation**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2503.15055)
 - **Leveraging large language models to examine the interaction between investor sentiment and stock performance**. *ArXiv preprint* (2025) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197625006025)
@@ -144,6 +143,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Feb 2025
 
+- **SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.12025)
+- **Stronger Models are NOT Stronger Teachers for Instruction Tuning**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2411.07133)
 - **Preference Leakage: A Contamination Problem in LLM-as-a-judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01534)
 - **AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01977)
 - **Can LLMs Assist Annotators in Identifying Morality Frames? -- Case Study on Vaccination Debate on Social Media**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01991)
