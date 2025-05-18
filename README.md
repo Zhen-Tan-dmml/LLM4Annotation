@@ -83,6 +83,11 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Updated
 
+### May 2025
+
+- **A Survey on Bridging VLMs and Synthetic Data**. *TechRxiv preprint* (2025) [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1)
+
+
 ### Mar 2025
 
 - **On Limitations of LLM as Annotator for Low Resource Languages**. *ArXiv preprint* (2024) [[Paper]](https://arxiv.org/abs/2411.17637)
