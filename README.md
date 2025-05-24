@@ -85,8 +85,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### May 2025
 
-- **A Survey on Bridging VLMs and Synthetic Data**. *TechRxiv preprint* (2025) [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1)
-
+- **A Survey on Bridging VLMs and Synthetic Data**. *OpenReview preprint* (2025) [[Paper]](https://openreview.net/pdf?id=ThjDCZOljE)
 
 ### Mar 2025
 
