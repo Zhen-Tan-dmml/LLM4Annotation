@@ -88,7 +88,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - **Recent Advances in Large Language Model Benchmarks Against Data Contamination: From Static to Dynamic Evaluation.** *preprint* [[Paper]](https://arxiv.org/abs/2502.17521) [[code](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)]
 
-- **Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.** *ICML 2025* [Paper]](https://arxiv.org/abs/2503.04149) [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
+- **Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.** *ICML 2025* [Paper](https://arxiv.org/abs/2503.04149) [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
 
 - **A Survey on Bridging VLMs and Synthetic Data**. *OpenReview preprint* (2025) [[Paper]](https://openreview.net/pdf?id=ThjDCZOljE)
 
