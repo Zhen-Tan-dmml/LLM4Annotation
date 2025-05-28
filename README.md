@@ -38,6 +38,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Long-CoT Synthesis & Distillation
 
 ### Papers
+
 - **Self-Training Elicits Concise Reasoning in Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.20122)
 - **Rank1: Test-Time Compute for Reranking in Information Retrieval**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18418)
 - **O1 Embedder: Let Retrievers Think Before Action**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.07555)
@@ -85,7 +86,13 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### May 2025
 
+- **Recent Advances in Large Language Model Benchmarks Against Data Contamination: From Static to Dynamic Evaluation.** *preprint* [[Paper]](https://arxiv.org/abs/2502.17521) [[code](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)]
+
+- **Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.** *ICML 2025* [[Paper]](https://arxiv.org/abs/2503.04149) [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
+
 - **A Survey on Bridging VLMs and Synthetic Data**. *OpenReview preprint* (2025) [[Paper]](https://openreview.net/pdf?id=ThjDCZOljE)
+
+
 
 ### Mar 2025
 
