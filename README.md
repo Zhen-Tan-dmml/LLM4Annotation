@@ -38,6 +38,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Long-CoT Synthesis & Distillation
 
 ### Papers
+
 - **Self-Training Elicits Concise Reasoning in Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.20122)
 - **Rank1: Test-Time Compute for Reranking in Information Retrieval**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.18418)
 - **O1 Embedder: Let Retrievers Think Before Action**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.07555)
@@ -84,6 +85,12 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Updated
 
 ### May 2025
+
+- **Recent Advances in Large Language Model Benchmarks Against Data Contamination: From Static to Dynamic Evaluation.** *preprint* [[Paper]](https://arxiv.org/abs/2502.17521) [[code](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)]
+
+- **Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.** *ICML 2025* [[Paper]](https://arxiv.org/abs/2503.04149) [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
+
+- **A Survey on Bridging VLMs and Synthetic Data**. *OpenReview preprint* (2025) [[Paper]](https://openreview.net/pdf?id=ThjDCZOljE)
 - **Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.02811)
 - **From Intent Discovery to Recognition with Topic Modeling and Synthetic Data**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.11176)
 - **Graph Synthetic Out-of-Distribution Exposure with Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.21198)
@@ -207,6 +214,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **Fairshare Data Pricing for Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://openreview.net/forum?id=QnFNXM5tBp)
 - **Human Experts vs. Large Language Models: Evaluating Annotation Scheme and Guidelines Development for Clinical Narratives**. *ArXiv preprint* (2025) [[Paper]](https://www.di.ubi.pt/~jpaulo/Text2Story2025/paper13.pdf)
 - **Window Token Concatenation for Efficient Visual Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.04024)
+
 
 
 ### Mar 2025
