@@ -90,7 +90,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - **Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.** *ICML 2025* [[Paper]](https://arxiv.org/abs/2503.04149) [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
 
-- **A Survey on Bridging VLMs and Synthetic Data**. *OpenReview preprint* (2025) [[Paper]](https://openreview.net/pdf?id=ThjDCZOljE)
+- **A Survey on Bridging VLMs and Synthetic Data**. *OpenReview preprint* (2025) [[Paper](https://openreview.net/pdf?id=ThjDCZOljE)] [[Github](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)]
 - **Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.02811)
 - **From Intent Discovery to Recognition with Topic Modeling and Synthetic Data**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2505.11176)
 - **Graph Synthetic Out-of-Distribution Exposure with Large Language Models**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2504.21198)
