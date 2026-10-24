@@ -84,6 +84,10 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Updated
 
+### Oct 2026
+
+- **Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization**. *ACL 2026 (Oral)* [[Paper]](https://arxiv.org/abs/2508.13993) [[code](https://github.com/NEUIR/LongMab-PO)]
+
 ### May 2025
 
 - **Recent Advances in Large Language Model Benchmarks Against Data Contamination: From Static to Dynamic Evaluation.** *preprint* [[Paper]](https://arxiv.org/abs/2502.17521) [[code](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)]
@@ -756,6 +760,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **RLCD: Reinforcement learning from contrastive distillation for LM alignment.** Yang, Kevin, Klein, Dan, Celikyilmaz, Asli, Peng, Nanyun, and Tian, Yuandong. *The Twelfth International Conference on Learning Representations* (2023) [[link]](https://arxiv.org/pdf/2307.12950.pdf?curius=4200)
 
 - **Contrastive post-training large language models on data curriculum.** Xu, Canwen, Rosset, Corby, Del Corro, Luciano, Mahajan, Shweti, McAuley, Julian, Neville, Jennifer, Awadallah, Ahmed Hassan, and Rao, Nikhil. *arXiv preprint arXiv:2310.02263* (2023) [[link]](https://arxiv.org/pdf/2310.02263)
+
+- **Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization.** Duan, Shaohua, Huang, Pengcheng, Li, Xinze, Liu, Zhenghao, Yi, Xiaoyuan, Yan, Yukun, Wang, Shuo, Gu, Yu, Yu, Ge, and Sun, Maosong. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (2026, Oral) [[link]](https://arxiv.org/pdf/2508.13993)
 
 
 
